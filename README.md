@@ -4,12 +4,12 @@
 
 CEPPIC - Exercice Git
 
-Liste non-ordonnée
+Liste non-ordonnée :
 - élement 1
 - élement 2
 - élement 3
 
-Liste ordonnée
+Liste ordonnée :
 1. élement 1
 2. élement 2
 3. élement 3
