@@ -1,5 +1,5 @@
 # CEPPIC-Git
-## Exercie Git en cours
+## Exercice Git en cours
 ### Nous sommes le 11 mai 2022
 
 CEPPIC - Exercice Git
